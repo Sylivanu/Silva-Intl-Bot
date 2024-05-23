@@ -22,7 +22,7 @@
 
  <h3>silva intl bot Stats</h3>
 
-![Giftd-mdV3 Stats](https://github-readme-stats.vercel.app/api/pin/?username=Sylivanu&repo=Silva-Intl-Bot&show_owner=true&theme=dark)
+![silva Stats](https://github-readme-stats.vercel.app/api/pin/?username=Sylivanu&repo=Silva-Intl-Bot&show_owner=true&theme=dark)
 
 
     
