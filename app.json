@@ -1,9 +1,9 @@
 {
-  "name":"gifted-md@4.0.0",
-  "description":"A MultiDevice WhatsApp Bot Created by Gifted Tech",
+  "name":"Silva International",
+  "description":"A MultiDevice WhatsApp Bot Created by Silva Tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-  "repository":"https://github.com/mouricedevs/Gifted-Md",
+  "logo":"https://telegra.ph/file/751eef74109e0e5c8916c.jpg",
+  "repository":"https://github.com/Sylivanu/Silva-Intl-Bot",
   "succes_url":"/",
 "stack":"heroku-22",
 
@@ -42,21 +42,21 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"GIFTED-MD",
+      "value":"Silva international bot",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
 
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
+      "value":"https://telegra.ph/file/751eef74109e0e5c8916c.jpg",
       "required":false
 
      },
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"no",
+      "value":"yes",
       "required":false
     }
         ,
@@ -81,32 +81,32 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "Gifted Tech"
+    "value": "𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254728782591,254762016957"
+    "value": "254700143167,254743706010"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "2"
   },
     "CHAT_BOT":
     {
       "desc": "Put yes to allow the bot to chat with people who text you or put no if you don't want the bot to chat with people",
       "required": false, 
-       "value": "no" 
+       "value": "yes" 
     }, 
   "STARTING_BOT_MESSAGE":
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "yes"
+    "value": "no"
   },
   "PRESENCE":{
     "description":"Put online to indicate that you are ever online even if you are not. Put typing to indicate that you are currently typing a message. Put recording to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
