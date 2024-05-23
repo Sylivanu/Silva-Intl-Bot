@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/mouricedevs/Gifted-MDdgit  /root/GiftedMD
-WORKDIR /root/GiftedMD/
+RUN git clone https://github.com/Sylivanu/Silva-Intl-Botdgit  /root/Silva
+WORKDIR /root/SilvaIntl/
 
 
 COPY package.json .
